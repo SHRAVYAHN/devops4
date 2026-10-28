@@ -1,0 +1,2 @@
+name=sima
+usn=4ik25cs196
